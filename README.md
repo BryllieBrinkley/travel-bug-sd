@@ -44,7 +44,7 @@ python manage.py runserver
 python manage.py fixtures/dummy-data.json
 ```
 
-3. Frontend setting
+3. Frontend Setting
 
 ```
 cd frontend
